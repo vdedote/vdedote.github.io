@@ -1,0 +1,65 @@
+html, body, header, #coverimage {
+  height: 100%; }
+
+#coverimage {
+  background: url("../img/coverimage1.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+.top-nav-collapse {
+  background-color: #eeeeee; }
+
+#HeadTitle, #navbarBrand {
+  font-family: "Righteous", cursive; }
+
+#HeadDescription, #buttonresume, #buttondownload, .nav-item {
+  font-family: "Oswald", sans-serif; }
+
+#byear {
+  text-transform: uppercase;
+  font-family: "Righteous", cursive;
+  background-color: #212121;
+  color: white;
+  font-size: 1em; }
+
+#AboutMe h1 {
+  font-family: "Righteous", cursive;
+  text-transform: uppercase; }
+
+#AboutMe #infoaboutme {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.2em; }
+
+#LatestWork h1, #LatestWork h2, #LatestWork h3, #LatestWork h4, #LatestWork h5, #LatestWork h6, #TheWanderlust h1, #TheWanderlust h2, #TheWanderlust h3, #TheWanderlust h4, #TheWanderlust h5, #TheWanderlust h6, #Housebrew h1, #Housebrew h2, #Housebrew h3, #Housebrew h4, #Housebrew h5, #Housebrew h6, #OldPortfolio h1, #OldPortfolio h2, #OldPortfolio h3, #OldPortfolio h4, #OldPortfolio h5, #OldPortfolio h6, #PBO h1, #PBO h2, #PBO h3, #PBO h4, #PBO h5, #PBO h6, #Rosario h1, #Rosario h2, #Rosario h3, #Rosario h4, #Rosario h5, #Rosario h6, #GNC h1, #GNC h2, #GNC h3, #GNC h4, #GNC h5, #GNC h6 {
+  font-family: "Righteous", cursive;
+  text-transform: uppercase; }
+
+#LatestWork p, #TheWanderlust p, #Housebrew p, #OldPortfolio p, #PBO p, #Rosario p, #GNC p {
+  font-family: "Oswald", sans-serif;
+  color: #424242; }
+
+#Certificates h1, #Certificates h4 {
+  font-family: "Righteous", cursive;
+  text-transform: uppercase; }
+
+#Certificates p, #Certificates a {
+  font-family: "Oswald", sans-serif;
+  color: #424242; }
+
+.point {
+  cursor: pointer; }
+
+#Tools h1 {
+  font-family: "Righteous", cursive;
+  text-transform: uppercase; }
+
+footer .footer-copyright {
+  font-family: "Righteous", cursive; }
+
+.modal-title {
+  font-family: "Righteous", cursive; }
+
+.modal-body {
+  font-family: "Oswald", sans-serif; }
