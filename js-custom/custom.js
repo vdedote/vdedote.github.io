@@ -1,5 +1,7 @@
-
-new WOW().init();
+function LoadAnimation()
+{
+	new WOW().init();
+}
                 
 function openInNewTab(url) 
 {
